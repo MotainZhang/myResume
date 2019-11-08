@@ -221,3 +221,9 @@ img {
 	background-color:#1E253F;
 	border:1px solid #007DCF
 }
+#dropDownMenu{
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;
+    color: #000;
+}
