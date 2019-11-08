@@ -217,16 +217,6 @@ img {
 .myModal-header-close{
 	color:white;
 }
- 
-.myModal-select{
-	appearance:none;
-	-moz-appearance:none;
-	-webkit-appearance:none;
-	padding-right:10px;
-	background:url("../css/images/newpic/chevron-down.png") no-repeat scroll right center transparent;
-	background-position-x: 185px;
-}
- 
 .myModal-input{
 	background-color:#1E253F;
 	border:1px solid #007DCF
